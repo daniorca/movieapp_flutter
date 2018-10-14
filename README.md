@@ -1,5 +1,4 @@
 Aplicación  Móvil de Películas desarrollada con Flutter
-# mymovieapp
 
 <img src="https://github.com/daniorca/movieapp_flutter/blob/master/screenshots/ScreenShot2.png" width="250">
 <img src="https://github.com/daniorca/movieapp_flutter/blob/master/screenshots/ScreenShot1.png" width="250">
