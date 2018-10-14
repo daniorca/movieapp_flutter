@@ -15,7 +15,7 @@ Aplicación  Móvil de Películas desarrollada con Flutter
 * ListView
 * SliverAppBar
 * NestedScrollView
-* Acceder al API de The Movie Data Base
+* Acceder al API de The Movie Database
 
 ## Documentación
 
