@@ -1,13 +1,24 @@
-<<<<<<< HEAD
-# flutter_movieapp
 Aplicación  Móvil de Películas desarrollada con Flutter
-=======
 # mymovieapp
 
-A new Flutter project.
+<img src="https://github.com/daniorca/movieapp_flutter/blob/master/screenshots/ScreenShot2.png" width="250">
+<img src="https://github.com/daniorca/movieapp_flutter/blob/master/screenshots/ScreenShot1.png" width="250">
 
-## Getting Started
+#### Conceptos y Widgets Utilizados
+* Scaffold
+* AppBar
+* Rows, Columns
+* Containers, SizedBox
+* Carousel Slider
+* CircleAvatar
+* Hero
+* FilterChip
+* ListView
+* SliverAppBar
+* NestedScrollView
+* Acceder al API de The Movie Data Base
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
->>>>>>> First Commit
+## Documentación
+
+Para obtener ayuda para comenzar con Flutter, vea nuestro sitio web.
+[documentation](https://flutter-es.io/)
